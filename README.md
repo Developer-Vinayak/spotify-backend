@@ -1,4 +1,4 @@
-echo "# 🎵 Spotify Backend API
+echo "#🎵 Spotify Backend API
 
 A complete RESTful API for Spotify-like music streaming platform with JWT authentication, MongoDB, and Express.js.
 
